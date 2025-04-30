@@ -1,4 +1,4 @@
-# TriVenture Backend Application
+# TriVenture Backend Application (Public Version)
 
 This repository contains the backend API for TriVenture, built with FastAPI, MongoDB, and LangChain/LangGraph for AI capabilities.
 

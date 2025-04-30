@@ -28,7 +28,7 @@ api_router.include_router(router_admin)
 def create_app():
     app = FastAPI(
         docs_url="/",
-        title="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3ZTU1ZTczYTA0MzI1YmUzNjAzYjU2MCJ9.Vdz3DdbvNUdUERDXEOyvi14EuYATRw29eOVWNGTQIYo"
+        title="TriVenture Backend"
     )
 
     app.add_middleware(
