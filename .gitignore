@@ -1,0 +1,24 @@
+**/__pycache__/
+.DS_Store
+test.ipynb
+.vscode
+test_planner.py
+crawl_data.ipynb
+.venv
+Untitled Diagram.drawio
+.vercel
+.env
+customer-support.ipynb
+a_a.test.__pycache__output.jpeg
+Recommendation_System-main
+a_a.test.py
+test_tool.ipynb
+data_item_base_frame.csv
+langgraph.json
+speech2text.py
+test_app.py
+2requirements.txt
+database.drawio
+another_test.py
+manifests
+data
